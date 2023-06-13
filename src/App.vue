@@ -4,7 +4,7 @@
     <router-link class="btn-nav" :to="{ name: 'home' }">Home</router-link>
     <router-link class="btn-nav" to="/categorias">Categorias</router-link>
     <router-link class="btn-nav" to="/editoras">Acessorios</router-link>
-    <router-link class="btn-nav" to="/autores">Autores</router-link>
+    <router-link class="btn-nav" to="/autores">Cores</router-link>
     <router-link class="btn-nav" to="/livros">Livros</router-link>
   </header>
   <main>

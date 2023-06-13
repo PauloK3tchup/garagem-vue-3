@@ -5,7 +5,7 @@ import CategoriasApi from "@/api/categorias";
 const categoriasApi = new CategoriasApi();
 import EditorasApi from "@/api/acessorios";
 const acessoriosApi = new EditorasApi();
-import AutoresApi from "@/api/autores";
+import AutoresApi from "@/api/cores";
 const autoresApi = new AutoresApi();
 
 export default {
